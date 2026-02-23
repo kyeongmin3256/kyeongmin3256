@@ -12,7 +12,7 @@ I'm a junior at Emory University majoring in Applied Mathematics and Economics &
 
 ## Skills
 - Programming Language: Javascript, R, C++, Python
-- Language: Korean (Native), English (Fluent)
+- Language: Korean (Native), English (Native)
 
 
 <!--

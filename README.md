@@ -8,7 +8,7 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=white)
 
 ## About Me
-I'm a junior at Emory University majoring in Applied Mathematics and Economics & Computer Science. I focus on quantitative modeling, data analytics, and computational economics, and I’m actively developing skills for roles in quant finance, trading systems, and financial engineering.
+I build data pipelines and ML models for quantitative risk analysis and financial modeling. Interested in game theory, statistical inference, stochastic processes, and how math explains market behavior.
 
 ## Education
 - Applied Mathematics B.S. | Economics&Computer Science B.A. @ Emory University

@@ -18,6 +18,9 @@ I'm a junior at Emory University majoring in Applied Mathematics and Economics &
 
 ## Projects
 
+- **[TailCast](https://github.com/kyeongmin3256/tail-risk-gating)** — Calibrated ML pipeline for conditional tail risk estimation (Python, PostgreSQL, FastAPI, React)
+- **StreamPulse** — Low-latency event-driven playlist optimization system (Go, Kafka, Redis, GCP GKE)
+
 ## Skills
 - Programming Language: Javascript, R, C++, Python
 - Language: Korean (Native), English (Native)

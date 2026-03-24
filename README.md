@@ -1,29 +1,18 @@
-# Kyeongmin Kim
+## Kyeongmin Kim
 
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=white)
 
-## About Me
-I build data pipelines and ML models for quantitative risk analysis and financial modeling. Interested in game theory, statistical inference, stochastic processes, and how math explains market behavior.
+Interested in game theory, statistical inference, stochastic processes, and how math explains market behavior.
 
-## Education
-- Applied Mathematics B.S. | Economics&Computer Science B.A. @ Emory University
-  Aug. 2023 ~ Present
-  - Relevant Courses: Machine Learning, Artifical Intelligence, Data Structures and Algorithms, Econometrics, Game Theory&Economic Activities, Managerial Economics, Mathematical Statistics 1, Linear Algebra, Numerical Analysis, Partial Differential Equations
-- Sejong Academy of Science and Arts
+I'm a junior studying applied mathematics and economics & computer science at Emory University.
 
-## Projects
+I am working on building [TailCast](https://github.com/kyeongmin3256/tail-risk-gating), a conditional tail risk probability estimation for short-volatility strategies
 
-- **[TailCast](https://github.com/kyeongmin3256/tail-risk-gating)** — Calibrated ML pipeline for conditional tail risk estimation (Python, PostgreSQL, FastAPI, React)
-- **StreamPulse** — Low-latency event-driven playlist optimization system (Go, Kafka, Redis, GCP GKE)
 
-## Skills
-- Programming Language: Javascript, R, C++, Python
-- Language: Korean (Native), English (Native)
 
 
 <!--
